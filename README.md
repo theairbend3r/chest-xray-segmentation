@@ -2,6 +2,8 @@
 
 This repository contains PyTorch code train segmentation models on chest-xray images.
 
+View different models, results, and sample images [here](https://github.com/theairbend3r/how-to-train-your-neural-net/tree/master/pytorch/computer_vision/image_segmentation).
+
 ## Directory Structure
 
 ```
