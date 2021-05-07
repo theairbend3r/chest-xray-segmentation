@@ -4,6 +4,7 @@
 
 ```
 .
+├── data
 ├── train_seg.py
 └── utils
     ├── load_data.py
