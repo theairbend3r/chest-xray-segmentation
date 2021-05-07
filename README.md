@@ -1,4 +1,6 @@
-# chest-xray-segmentation
+# Chest X-Ray Segmentation
+
+This repository contains PyTorch code train segmentation models on chest-xray images.
 
 ## Directory Structure
 
